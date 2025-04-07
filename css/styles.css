@@ -138,10 +138,10 @@ a {
         color: #434455;
 }
 
-.portfolio {
-    background-color: #FFFFFF; 
-}
 
+.portfolio-item {
+    background-color: #FFFFFF;
+}
 .portfolio-title {
         font-weight: 700;
         font-size: 36px;
