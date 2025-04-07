@@ -61,7 +61,6 @@ a {
 }
 
 
-
 .hero-image {
     background-color: #2e2f42;
 }
@@ -76,15 +75,16 @@ a {
 }
 
 .hero-button {
-    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-    background: #4d5ae5;
-    font-weight: 500;
-        font-size: 16px;
-        line-height: 1.5;
-        letter-spacing: 0.04em;
-        color: #fff;
-        cursor: pointer;
+            background: #4d5ae5;
+            font-weight: 500;
+            font-size: 16px;
+            line-height: 1.5;
+            letter-spacing: 0.04em;
+            color: #fff;
+            cursor: pointer;
 }
+
+
 .hero-button:hover,
 .hero-button:focus {
     background-color: #404BBF
@@ -107,14 +107,17 @@ a {
         letter-spacing: 0.02em;
         color: #434455;
 }
-
+.team {
+    background-color: #f4f4fd;
+}
 .team-title {
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize; 
 }
 
 .team-name {
@@ -135,13 +138,18 @@ a {
         color: #434455;
 }
 
+.portfolio {
+    background-color: #fff;
+}
+
 .portfolio-title {
         font-weight: 700;
         font-size: 36px;
-        line-height: 1.11111;
+        line-height: 1.11;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        text-transform: capitalize;
 }
 
 .portfolio-name {
