@@ -110,6 +110,9 @@ a {
 .team {
     background-color: #f4f4fd;
 }
+.team-item {
+    background-color: #FFFFFF;
+}
 .team-title {
         font-weight: 700;
         font-size: 36px;
@@ -139,7 +142,7 @@ a {
 }
 
 
-.portfolio-item {
+.portfolio {
     background-color: #FFFFFF;
 }
 .portfolio-title {
